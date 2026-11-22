@@ -1,0 +1,236 @@
+{
+  "generated_at": "2026-11-22T04:37:13.283Z",
+  "slug": "m4d-tethered-lighting-drone",
+  "product_id": "1ea5c51a-1373-4b80-864c-b6975dc0ba5e",
+  "name": "Matrice 4D Tethered Drone",
+  "source_url": "https://www.ceeic.com.cn/product_xq/5.html",
+  "extracted_with": "webridge",
+  "current": {
+    "images": 10,
+    "specs": 29
+  },
+  "proposed": {
+    "images": [
+      {
+        "source_url": "https://omo-oss-image.thefastimg.com/portal-saas/pg2024041917123419763/cms/image/e60402fe-7cd1-47d8-b730-45c68bda2944.jpg",
+        "width": 4000,
+        "height": 4000,
+        "aspect": 1,
+        "role": "hero",
+        "alt": "Matrice 4D Tethered Drone — product view",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://omo-oss-image.thefastimg.com/portal-saas/pg2024041917123419763/cms/image/cbf52528-57d5-409a-a83d-c4fbd987cb33.png",
+        "width": 3489,
+        "height": 704,
+        "aspect": 4.96,
+        "role": "overview",
+        "alt": "Matrice 4D Tethered Drone — overview",
+        "action": "download_upload"
+      }
+    ],
+    "new_image_count": 0,
+    "specs": [
+      {
+        "action": "translate_value",
+        "label": "云台",
+        "from": "-90° 至 +35° 可控云台，可与无人机相机联动",
+        "to": "-90° 至 +35° 可控云台, 可与无人机相机联动",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "尺寸",
+        "from": "深490×宽285×高470mm",
+        "to": "深490×宽285×高470mm",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "接口",
+        "from": "输入LP12，输出XT30照明灯接口和无人机电池接口",
+        "to": "输入LP 12, 输出XT 30照明灯接口和无人机电池接口",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "重量",
+        "from": "19.5kg",
+        "to": "19.5kg",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "光通量",
+        "from": "100000lm，光效约168lm/W",
+        "to": "100000lm, 光效约168lm/W",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "中心照度",
+        "from": "30lux/50m，7lux/100m，3lux/150m",
+        "to": "30lux/50m, 7lux/100m, 3lux/150m",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "喊话方式",
+        "from": "4G手持麦、司空2、Pilot2、小程序，支持喊话收音回传",
+        "to": "4G手持麦, 司空2, Pilot 2, 小程序, 支持喊话收音回传",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "工作温度",
+        "from": "-20~45℃，贮存温度：-40~65℃",
+        "to": "-20~45℃, 贮存温度：-40~65℃",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "工作电压",
+        "from": "800~1000VDC，系缆直供，高压小电流，温度低、照度更高",
+        "to": "800~1000VDC, 系缆直供, 高压小电流, 温度低, 照度更高",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "收放拉力",
+        "from": "0~10N，支持档位调节扭矩上限，扭矩输出值及扭矩斜率智能连续调节",
+        "to": "0~10N, 支持档位调节扭矩上限, 扭矩输出值及扭矩斜率智能连续调节",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "最大功耗",
+        "from": "40W",
+        "to": "40W",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "油箱容量",
+        "from": "5.5L",
+        "to": "5.5L",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "灯组重量",
+        "from": "270g",
+        "to": "270g",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "照明功率",
+        "from": "600W，超亮模式1200W",
+        "to": "600W, 超亮模式1200W",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "照明方式",
+        "from": "组合照明，14°出光角，五色爆闪",
+        "to": "组合照明, 14°出光角, 五色爆闪",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "照明面积",
+        "from": "113㎡/50m，471㎡/100m，1063㎡/150m",
+        "to": "113㎡/50m, 471㎡/100m, 1063㎡/150m",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "系缆长度",
+        "from": "33m或55m标准配置可选，支持线长定制",
+        "to": "33m或55m标准配置可选, 支持线长定制",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "输入电压",
+        "from": "600~850VDC，宽电压范围输入",
+        "to": "600~850VDC, 宽电压范围输入",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "输出功率",
+        "from": "额定2.8kW，峰值3kW",
+        "to": "额定2.8kW, 峰值3kW",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "输出电压",
+        "from": "25VDC，恒定稳压输出",
+        "to": "25VDC, 恒定稳压输出",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "适配机型",
+        "from": "DJI Matrice 4D、DJI Matrice 4TD",
+        "to": "DJI Matrice 4D, DJI Matrice 4TD",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "防护等级",
+        "from": "机载电源IP54，系留箱IPx4",
+        "to": "机载电源IP 54, 系留箱IPx 4",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "尺寸和重量",
+        "from": "146×65×96mm，175g",
+        "to": "146×65×96mm, 175g",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "收放线速度",
+        "from": "0~3m/s，智能动态连续调整、可变加速度控制",
+        "to": "0~3m/s, 智能动态连续调整, 可变加速度控制",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "任务payload设备",
+        "from": "Matrice4D系留无人机",
+        "to": "Matrice 4D系留无人机",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "支持飞行时长",
+        "from": "＞24h，具体飞行时长取决于外部供电设备",
+        "to": "＞24h, 具体飞行时长取决于外部供电设备",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "支持飞行高度",
+        "from": "30m或50m，线缆长度可选33m或55m，预留安全余量、支持线长定制",
+        "to": "30m或50m, 线缆长度可选33m或55m, 预留安全余量, 支持线长定制",
+        "group": "existing"
+      }
+    ],
+    "videos": [],
+    "embeds": [],
+    "payloads": [],
+    "documents": []
+  },
+  "risks": [
+    "19 spec values still contain Chinese after translation",
+    "only 2 usable images found",
+    "no model-matching video found"
+  ],
+  "note": "REVIEW ONLY — nothing written to Supabase"
+}

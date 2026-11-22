@@ -1,0 +1,193 @@
+{
+  "generated_at": "2026-11-22T05:00:04.665Z",
+  "slug": "q100-agricultural-drone",
+  "product_id": "df2e8ca6-551f-46b6-8a50-bd8529154c1a",
+  "name": "Q100 Agricultural Drone",
+  "source_url": "https://www.zhz.com/product/info/59.html",
+  "extracted_with": "webridge",
+  "current": {
+    "images": 15,
+    "specs": 7
+  },
+  "proposed": {
+    "images": [
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2024/06/12/%E4%B8%AD%E8%88%AA%E6%99%BA%E5%AE%98%E7%BD%91%E9%A1%B5%E9%9D%A2%E5%B0%BA%E5%AF%B8-02_20240612213854A171.png",
+        "width": 4501,
+        "height": 2501,
+        "aspect": 1.8,
+        "role": "hero",
+        "alt": "Q100 Agricultural Drone — product view",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2024/06/12/%E4%B8%AD%E8%88%AA%E6%99%BA%E5%AE%98%E7%BD%91%E9%A1%B5%E9%9D%A2%E5%B0%BA%E5%AF%B8-08_20240612214017A172.png",
+        "width": 5834,
+        "height": 2060,
+        "aspect": 2.83,
+        "role": "overview",
+        "alt": "Q100 Agricultural Drone — overview",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2025/06/03/%E4%BC%98%E5%8A%BF_%E7%94%BB%E6%9D%BF%201_20250603215452A206.jpg",
+        "width": 3467,
+        "height": 1733,
+        "aspect": 2,
+        "role": "feature",
+        "alt": "Q100 Agricultural Drone — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2025/06/03/%E4%BC%98%E5%8A%BF-03_20250603215642A207.jpg",
+        "width": 3467,
+        "height": 1733,
+        "aspect": 2,
+        "role": "feature",
+        "alt": "Q100 Agricultural Drone — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2025/06/03/%E4%BC%98%E5%8A%BF-04_20250603215657A208.jpg",
+        "width": 3467,
+        "height": 1733,
+        "aspect": 2,
+        "role": "feature",
+        "alt": "Q100 Agricultural Drone — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2025/06/03/%E4%BC%98%E5%8A%BF-02_20250603215842A210.jpg",
+        "width": 3467,
+        "height": 1733,
+        "aspect": 2,
+        "role": "feature",
+        "alt": "Q100 Agricultural Drone — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2024/06/12/%E4%B8%AD%E8%88%AA%E6%99%BA%E5%AE%98%E7%BD%91%E9%A1%B5%E9%9D%A2%E5%B0%BA%E5%AF%B8-13-13_20240612210011A157.jpg",
+        "width": 1921,
+        "height": 801,
+        "aspect": 2.4,
+        "role": "application",
+        "alt": "Q100 Agricultural Drone — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2024/06/12/%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F-02_20240612204559A147.jpg",
+        "width": 1000,
+        "height": 500,
+        "aspect": 2,
+        "role": "application",
+        "alt": "Q100 Agricultural Drone — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2024/06/12/%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F-05_20240612204621A148.jpg",
+        "width": 1000,
+        "height": 500,
+        "aspect": 2,
+        "role": "application",
+        "alt": "Q100 Agricultural Drone — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2024/06/12/%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F_%E7%94%BB%E6%9D%BF%201_20240612204639A149.jpg",
+        "width": 1000,
+        "height": 500,
+        "aspect": 2,
+        "role": "application",
+        "alt": "Q100 Agricultural Drone — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2024/06/12/%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F-03_20240612204655A150.jpg",
+        "width": 1000,
+        "height": 500,
+        "aspect": 2,
+        "role": "gallery",
+        "alt": "Q100 Agricultural Drone — gallery",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2024/06/12/%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F-04_20240612204712A151.jpg",
+        "width": 1000,
+        "height": 500,
+        "aspect": 2,
+        "role": "gallery",
+        "alt": "Q100 Agricultural Drone — gallery",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2024/06/12/%E4%B8%AD%E8%88%AA%E6%99%BA%E5%AE%98%E7%BD%91%E9%A1%B5%E9%9D%A2%E5%B0%BA%E5%AF%B8-06_20240612212336A161.jpg",
+        "width": 1921,
+        "height": 421,
+        "aspect": 4.56,
+        "role": "gallery",
+        "alt": "Q100 Agricultural Drone — gallery",
+        "action": "download_upload"
+      }
+    ],
+    "new_image_count": 0,
+    "specs": [
+      {
+        "action": "translate_value",
+        "label": "Dimensions",
+        "from": "机臂+桨叶展开 2.93×3.26×0.83m 机臂+桨叶折叠1.1×0.83×0.83m",
+        "to": "arms and props unfolded 2.93×3.26×0.83m arms and props folded 1.1×0.83×0.83m",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Wind resistance",
+        "from": "6m/s",
+        "to": "6m/s",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Rated payload",
+        "from": "65kg 50L",
+        "to": "65kg 50L",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "Max takeoff weight",
+        "from": "126kg（播撒，海平面） 111KG（喷洒，海平面，标配2喷头+50L作业箱） 126KG（喷洒，海平面，选配果树套件，加装2喷头）",
+        "to": "126kg (spreading, sea level) 111KG (spraying, sea level, standard 2nozzles+50Ltank) 126KG (spraying, sea level, optionalorchard kit, fitted with 2nozzles)",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Max operating radius",
+        "from": "2KM",
+        "to": "2KM",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Max flight speed",
+        "from": "13.8m/s",
+        "to": "13.8m/s",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Max flight height",
+        "from": "30m",
+        "to": "30m",
+        "group": "existing"
+      }
+    ],
+    "videos": [],
+    "embeds": [],
+    "payloads": [],
+    "documents": []
+  },
+  "risks": [
+    "no model-matching video found"
+  ],
+  "note": "REVIEW ONLY — nothing written to Supabase"
+}

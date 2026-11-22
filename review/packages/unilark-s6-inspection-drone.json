@@ -1,0 +1,133 @@
+{
+  "generated_at": "2026-11-22T04:37:44.333Z",
+  "slug": "unilark-s6-inspection-drone",
+  "product_id": "2dec33c9-7c22-4609-88ab-fac575a6d6ca",
+  "name": "Unilark S6 Inspection Drone",
+  "source_url": "https://www.efy-tech.com/zh/products/unilark-s6.html",
+  "extracted_with": "webridge",
+  "current": {
+    "images": 6,
+    "specs": 11
+  },
+  "proposed": {
+    "images": [
+      {
+        "source_url": "https://www.efy-tech.com/media/images/efy-tech/unilark-s6.png",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "hero",
+        "alt": "Unilark S6 Inspection Drone — product view",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.efy-tech.com/media/posters/patrol.jpg",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "overview",
+        "alt": "Unilark S6 Inspection Drone — overview",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.efy-tech.com/media/posters/product-unilark-s6.jpg",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "feature",
+        "alt": "Unilark S6 Inspection Drone — feature",
+        "action": "download_upload"
+      }
+    ],
+    "new_image_count": 0,
+    "specs": [
+      {
+        "action": "keep",
+        "label": "尺寸",
+        "from": "1.8m*1.8m*0.51m",
+        "to": "1.8m*1.8m*0.51m",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "轴距",
+        "from": "1.2m",
+        "to": "1.2m",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "payload",
+        "from": "30倍光学镜头可定制",
+        "to": "30倍光学镜头可定制",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "定位精度",
+        "from": "±15cm",
+        "to": "±15cm",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "抗风等级",
+        "from": "5级",
+        "to": "5级",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "最大续航",
+        "from": "30min",
+        "to": "30min",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "最大载重",
+        "from": "8kg",
+        "to": "8kg",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "最大速度",
+        "from": "18m/s",
+        "to": "18m/s",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "防护等级",
+        "from": "IP54",
+        "to": "IP 54",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "最大起飞重量",
+        "from": "21kg",
+        "to": "21kg",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "轴距 1.2 m；两根红色机臂指示机头方向。",
+        "from": "电机 ×6",
+        "to": "电机 ×6",
+        "group": "existing"
+      }
+    ],
+    "videos": [],
+    "embeds": [],
+    "payloads": [],
+    "documents": []
+  },
+  "risks": [
+    "3 spec values still contain Chinese after translation",
+    "only 3 usable images found",
+    "no model-matching video found"
+  ],
+  "note": "REVIEW ONLY — nothing written to Supabase"
+}

@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-11-21T10:05:17.589Z",
+  "slug": "zmd10-multirotor-drone",
+  "product_id": "537b78b6-31de-414f-887c-3d6b057208c9",
+  "name": "ZMD10 Multirotor Drone",
+  "source_url": "https://www.droneyee.com/ProductDetail/9847848.html",
+  "extracted_with": "webridge",
+  "current": {
+    "images": 12,
+    "specs": 4
+  },
+  "proposed": {
+    "images": [],
+    "new_image_count": 0,
+    "specs": [
+      {
+        "action": "keep",
+        "label": "Endurance",
+        "from": "46 min at 5 kg",
+        "to": "46 min at 5 kg",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Max payload",
+        "from": "10 kg",
+        "to": "10 kg",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Service ceiling",
+        "from": "5500 m",
+        "to": "5500 m",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Endurance (no payload)",
+        "from": "65 min",
+        "to": "65 min",
+        "group": "existing"
+      },
+      {
+        "action": "add",
+        "label": "65min@no payload, 46min@5kgpayload",
+        "from": null,
+        "to": "5500 m",
+        "group": "extracted"
+      }
+    ],
+    "videos": [
+      "https://droneyeevideo.oss-cn-beijing.aliyuncs.com/droneyeevideo/D10.mp4"
+    ],
+    "embeds": [],
+    "payloads": [],
+    "documents": []
+  },
+  "risks": [
+    "only 0 usable images found"
+  ],
+  "note": "REVIEW ONLY — nothing written to Supabase"
+}

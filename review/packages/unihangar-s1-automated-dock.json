@@ -1,0 +1,83 @@
+{
+  "generated_at": "2026-11-22T05:00:19.874Z",
+  "slug": "unihangar-s1-automated-dock",
+  "product_id": "8c9ea1b6-fff1-49b4-948a-509736641fd1",
+  "name": "Unihangar S1 Automated Dock",
+  "source_url": "https://www.efy-tech.com/zh/products/unihangar-s1.html",
+  "extracted_with": "webridge",
+  "current": {
+    "images": 6,
+    "specs": 4
+  },
+  "proposed": {
+    "images": [
+      {
+        "source_url": "https://www.efy-tech.com/media/images/efy-tech/unihangar-s1.jpg",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "hero",
+        "alt": "Unihangar S1 Automated Dock — product view",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.efy-tech.com/media/posters/patrol.jpg",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "overview",
+        "alt": "Unihangar S1 Automated Dock — overview",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.efy-tech.com/media/posters/product-unihangar-s1.jpg",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "feature",
+        "alt": "Unihangar S1 Automated Dock — feature",
+        "action": "download_upload"
+      }
+    ],
+    "new_image_count": 0,
+    "specs": [
+      {
+        "action": "keep",
+        "label": "Ingress protection",
+        "from": "IP54",
+        "to": "IP 54",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "功率 (工作)",
+        "from": "300W",
+        "to": "300W",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "尺寸 (roof closed)",
+        "from": "2.3m*2.3m*2m",
+        "to": "2.3m*2.3m*2m",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "尺寸 (roof open)",
+        "from": "4m*2.3m*2m",
+        "to": "4m*2.3m*2m",
+        "group": "existing"
+      }
+    ],
+    "videos": [],
+    "embeds": [],
+    "payloads": [],
+    "documents": []
+  },
+  "risks": [
+    "only 3 usable images found",
+    "no model-matching video found"
+  ],
+  "note": "REVIEW ONLY — nothing written to Supabase"
+}

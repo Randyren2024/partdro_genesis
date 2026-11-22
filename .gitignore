@@ -1,0 +1,17 @@
+# Local production credentials
+crawl/lib.mjs
+
+# Dependencies
+**/node_modules/
+
+# Generated crawl and browser output
+crawl/out/
+.playwright-mcp/
+
+# Supabase local state
+supabase/.temp/
+
+# Local environment files
+**/.env
+**/.env.*
+!**/.env.example

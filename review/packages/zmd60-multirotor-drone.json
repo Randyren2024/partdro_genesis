@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-11-21T10:05:35.414Z",
+  "slug": "zmd60-multirotor-drone",
+  "product_id": "a978d463-4137-4e31-8b71-d3c7c27fc661",
+  "name": "ZMD60 Multirotor Drone",
+  "source_url": "https://www.droneyee.com/ProductDetail/9836874.html",
+  "extracted_with": "webridge",
+  "current": {
+    "images": 12,
+    "specs": 4
+  },
+  "proposed": {
+    "images": [],
+    "new_image_count": 0,
+    "specs": [
+      {
+        "action": "keep",
+        "label": "Endurance",
+        "from": "31 min at 50 kg",
+        "to": "31 min at 50 kg",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Max payload",
+        "from": "60 kg",
+        "to": "60 kg",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Service ceiling",
+        "from": "5500 m",
+        "to": "5500 m",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Endurance (no payload)",
+        "from": "75 min",
+        "to": "75 min",
+        "group": "existing"
+      },
+      {
+        "action": "add",
+        "label": "75min@no payload, 31min@50kgpayload",
+        "from": null,
+        "to": "5500 m",
+        "group": "extracted"
+      }
+    ],
+    "videos": [
+      "https://droneyeevideo.oss-cn-beijing.aliyuncs.com/droneyeevideo/D60.mp4"
+    ],
+    "embeds": [],
+    "payloads": [],
+    "documents": []
+  },
+  "risks": [
+    "only 0 usable images found"
+  ],
+  "note": "REVIEW ONLY — nothing written to Supabase"
+}

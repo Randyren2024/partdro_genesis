@@ -1,0 +1,209 @@
+{
+  "generated_at": "2026-11-22T05:00:14.830Z",
+  "slug": "td550-coaxial-unmanned-helicopter",
+  "product_id": "2d2eedb3-22db-43f5-b1c8-97fdae14e9fe",
+  "name": "TD550 Coaxial Unmanned Helicopter",
+  "source_url": "https://www.zhz.com/product/info/4.html",
+  "extracted_with": "webridge",
+  "current": {
+    "images": 12,
+    "specs": 8
+  },
+  "proposed": {
+    "images": [
+      {
+        "source_url": "https://www.zhz.com/profile/upload/2022/09/02/KV_20220902140131A001.jpg",
+        "width": 1920,
+        "height": 960,
+        "aspect": 2,
+        "role": "hero",
+        "alt": "TD550 Coaxial Unmanned Helicopter — product view",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.zhz.com/profile/upload/2022/09/02/%E4%BC%98%E5%8A%BF_20220902160031A004.jpg",
+        "width": 1920,
+        "height": 800,
+        "aspect": 2.4,
+        "role": "overview",
+        "alt": "TD550 Coaxial Unmanned Helicopter — overview",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.zhz.com/profile/upload/2022/09/05/%E4%BC%98%E5%8A%BF-01_20220905100012A001.jpg",
+        "width": 1920,
+        "height": 800,
+        "aspect": 2.4,
+        "role": "feature",
+        "alt": "TD550 Coaxial Unmanned Helicopter — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.zhz.com/profile/upload/2022/09/05/%E4%BC%98%E5%8A%BF-02_20220905100104A002.jpg",
+        "width": 1920,
+        "height": 800,
+        "aspect": 2.4,
+        "role": "feature",
+        "alt": "TD550 Coaxial Unmanned Helicopter — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.zhz.com/profile/upload/2022/09/05/%E4%BC%98%E5%8A%BF-03_20220905100125A003.jpg",
+        "width": 1920,
+        "height": 800,
+        "aspect": 2.4,
+        "role": "feature",
+        "alt": "TD550 Coaxial Unmanned Helicopter — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.zhz.com/profile/upload/2022/09/14/%E5%8F%AF%E6%90%AD%E8%BD%BD%E8%BD%BD%E8%8D%B71111111111111_20220914143505A094.png",
+        "width": 1920,
+        "height": 800,
+        "aspect": 2.4,
+        "role": "feature",
+        "alt": "TD550 Coaxial Unmanned Helicopter — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.zhz.com/profile/upload/2022/09/14/0101_20220914181119A043.png",
+        "width": 1080,
+        "height": 600,
+        "aspect": 1.8,
+        "role": "application",
+        "alt": "TD550 Coaxial Unmanned Helicopter — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.zhz.com/profile/upload/2022/09/05/%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F-0_20220905112511A024.jpg",
+        "width": 1000,
+        "height": 500,
+        "aspect": 2,
+        "role": "application",
+        "alt": "TD550 Coaxial Unmanned Helicopter — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.zhz.com/profile/upload/2022/09/05/%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F-%E5%B7%A5%E5%8C%96%E6%8E%A2%E6%B5%8B_%E7%94%BB%E6%9D%BF%201_20220905112415A022.png",
+        "width": 1000,
+        "height": 500,
+        "aspect": 2,
+        "role": "application",
+        "alt": "TD550 Coaxial Unmanned Helicopter — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.zhz.com/profile/upload/2022/09/05/%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F-02_20220905112520A025.jpg",
+        "width": 1000,
+        "height": 500,
+        "aspect": 2,
+        "role": "application",
+        "alt": "TD550 Coaxial Unmanned Helicopter — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.zhz.com/profile/upload/2022/09/21/%E4%B8%AD%E8%88%AA%E6%99%BA%E5%BE%AE%E5%8D%9A_20220921161919A026.png",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "gallery",
+        "alt": "TD550 Coaxial Unmanned Helicopter — gallery",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.zhz.com/profile/upload/2022/09/21/003_20220921092854A015.png",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "gallery",
+        "alt": "TD550 Coaxial Unmanned Helicopter — gallery",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.zhz.com/profile/upload/2022/09/21/%E4%B8%AD%E8%88%AA%E6%99%BA%E6%8A%96%E9%9F%B3_20220921162030A027.png",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "gallery",
+        "alt": "TD550 Coaxial Unmanned Helicopter — gallery",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.zhz.com/profile/upload/2022/09/06/zhihu_20220906160538A004.png",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "gallery",
+        "alt": "TD550 Coaxial Unmanned Helicopter — gallery",
+        "action": "download_upload"
+      }
+    ],
+    "new_image_count": 2,
+    "specs": [
+      {
+        "action": "keep",
+        "label": "Service ceiling",
+        "from": "6500m",
+        "to": "6500m",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Cruise speed",
+        "from": "100-120km/h",
+        "to": "100-120km/h",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Typical mission radius",
+        "from": "200km",
+        "to": "200km",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Max level speed",
+        "from": "180km/h",
+        "to": "180km/h",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "Max useful payload",
+        "from": "260kg(海平面)",
+        "to": "260kg(sea level)",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "Max takeoff weight",
+        "from": "730kg(海平面)",
+        "to": "730kg(sea level)",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Hover ceiling (OGE)",
+        "from": "5000m",
+        "to": "5000m",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "TD 550大载重应急救援无人直升机",
+        "from": "2023-07-19 20:35:22",
+        "to": "2023-07-19 20:35:22",
+        "group": "existing"
+      }
+    ],
+    "videos": [],
+    "embeds": [],
+    "payloads": [],
+    "documents": []
+  },
+  "risks": [
+    "no model-matching video found"
+  ],
+  "note": "REVIEW ONLY — nothing written to Supabase"
+}

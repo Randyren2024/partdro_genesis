@@ -1,0 +1,86 @@
+@import "tailwindcss";
+
+@theme {
+  --color-ink: #0b0f14;
+  --color-ink-soft: #151b23;
+  --color-line: #e5e7eb;
+  --color-muted: #5b6472;
+  --color-accent: #f97316;
+  --color-accent-soft: #fff3ea;
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-white text-ink antialiased;
+  font-family: var(--font-sans);
+}
+
+.container-page {
+  @apply mx-auto w-full max-w-6xl px-5 sm:px-8;
+}
+
+.eyebrow {
+  @apply text-xs font-semibold uppercase tracking-[0.18em] text-accent;
+}
+
+.h-display {
+  font-size: clamp(2.4rem, 5vw, 4rem);
+  line-height: 1.03;
+  letter-spacing: -0.03em;
+  @apply font-semibold;
+}
+
+.h-section {
+  font-size: clamp(1.75rem, 3vw, 2.6rem);
+  line-height: 1.1;
+  letter-spacing: -0.02em;
+  @apply font-semibold;
+}
+
+.prose-copy p {
+  @apply mb-4 text-[15px] leading-7 text-muted;
+}
+
+.btn {
+  @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition;
+}
+
+.btn-primary {
+  @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition bg-accent text-white hover:bg-[#e8660d];
+}
+
+.btn-ghost {
+  @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition border border-white/30 text-white hover:border-white/60;
+}
+
+.btn-outline {
+  @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 text-sm font-semibold transition border border-line text-ink hover:border-ink/40;
+}
+
+.card {
+  @apply overflow-hidden rounded-2xl border border-line bg-white transition hover:-translate-y-0.5 hover:shadow-[0_18px_40px_-24px_rgba(11,15,20,0.35)];
+}
+
+.spec-row {
+  @apply grid grid-cols-1 gap-1 border-b border-line py-3 sm:grid-cols-[minmax(0,1fr)_minmax(0,1.2fr)];
+}
+
+.spec-row dt {
+  @apply text-sm text-muted;
+}
+
+.spec-row dd {
+  @apply text-sm font-medium text-ink;
+}
+
+.section {
+  @apply py-16 sm:py-24;
+}
+
+.anchor-offset {
+  scroll-margin-top: 96px;
+}

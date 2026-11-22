@@ -1,0 +1,111 @@
+{
+  "generated_at": "2026-11-22T04:37:06.634Z",
+  "slug": "finix3000-flight-controller",
+  "product_id": "2a0d957d-59cd-44a1-900e-fb570b3133bf",
+  "name": "Finix3000 Flight Controller",
+  "source_url": "https://www.efy-tech.com/zh/products/finix3000.html",
+  "extracted_with": "webridge",
+  "current": {
+    "images": 5,
+    "specs": 8
+  },
+  "proposed": {
+    "images": [
+      {
+        "source_url": "https://www.efy-tech.com/media/images/efy-tech/finix3000.jpg",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "hero",
+        "alt": "Finix3000 Flight Controller — product view",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.efy-tech.com/media/posters/flightcontrol.jpg",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "overview",
+        "alt": "Finix3000 Flight Controller — overview",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.efy-tech.com/media/posters/product-finix3000.jpg",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "feature",
+        "alt": "Finix3000 Flight Controller — feature",
+        "action": "download_upload"
+      }
+    ],
+    "new_image_count": 0,
+    "specs": [
+      {
+        "action": "keep",
+        "label": "lateral",
+        "from": "20Km/h",
+        "to": "20Km/h",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "vertical",
+        "from": "±3m",
+        "to": "±3m",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "工作温度",
+        "from": "-20~60℃",
+        "to": "-20~60℃",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "悬停精度",
+        "from": "水平方向：±3m",
+        "to": "horizontal：±3m",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "抗风能力",
+        "from": "< 8m/s",
+        "to": "< 8m/s",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "最大飞行速度",
+        "from": "前向：120Km/h",
+        "to": "forward：120Km/h",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "悬停精度horizontal",
+        "from": "±3m",
+        "to": "±3m",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "最大飞行速度forward",
+        "from": "120Km/h",
+        "to": "120Km/h",
+        "group": "existing"
+      }
+    ],
+    "videos": [],
+    "embeds": [],
+    "payloads": [],
+    "documents": []
+  },
+  "risks": [
+    "only 3 usable images found",
+    "no model-matching video found"
+  ],
+  "note": "REVIEW ONLY — nothing written to Supabase"
+}

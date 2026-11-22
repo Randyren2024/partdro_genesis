@@ -1,0 +1,215 @@
+{
+  "generated_at": "2026-11-22T04:44:07.322Z",
+  "slug": "q20-quadcopter-platform",
+  "product_id": "8da45894-4e53-42a2-8e24-36066d53ede8",
+  "name": "Q20 Quadcopter Platform",
+  "source_url": "https://www.zhz.com/product/info/56.html",
+  "extracted_with": "webridge",
+  "current": {
+    "images": 13,
+    "specs": 10
+  },
+  "proposed": {
+    "images": [
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2025/03/24/%E8%BD%BD%E8%8D%B7_20230719151927A095_20250324134402A044.png",
+        "width": 8000,
+        "height": 3333,
+        "aspect": 2.4,
+        "role": "hero",
+        "alt": "Q20 Quadcopter Platform — product view",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2023/07/19/%E4%BA%A7%E5%93%81%E6%A6%82%E8%BF%B0_20230719153739A111.png",
+        "width": 8750,
+        "height": 3088,
+        "aspect": 2.83,
+        "role": "overview",
+        "alt": "Q20 Quadcopter Platform — overview",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2025/06/03/%E4%BC%98%E5%8A%BF_%E7%94%BB%E6%9D%BF%201_20250603213110A196.jpg",
+        "width": 4000,
+        "height": 2000,
+        "aspect": 2,
+        "role": "feature",
+        "alt": "Q20 Quadcopter Platform — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2025/06/03/%E4%BC%98%E5%8A%BF-03_20250603212739A195.jpg",
+        "width": 4000,
+        "height": 2000,
+        "aspect": 2,
+        "role": "feature",
+        "alt": "Q20 Quadcopter Platform — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2025/06/03/%E4%BC%98%E5%8A%BF-04_20250603213200A197.jpg",
+        "width": 4000,
+        "height": 2000,
+        "aspect": 2,
+        "role": "feature",
+        "alt": "Q20 Quadcopter Platform — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2025/06/03/%E4%BC%98%E5%8A%BF-02_20250603213228A198.jpg",
+        "width": 4000,
+        "height": 2000,
+        "aspect": 2,
+        "role": "feature",
+        "alt": "Q20 Quadcopter Platform — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2025/06/03/%E4%BC%98%E5%8A%BF-05_20250603213258A199.jpg",
+        "width": 4000,
+        "height": 2000,
+        "aspect": 2,
+        "role": "application",
+        "alt": "Q20 Quadcopter Platform — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2023/07/19/%E4%BA%A7%E5%93%81%E6%A6%82%E8%BF%B0-02_20230719151651A093.jpg",
+        "width": 8000,
+        "height": 1750,
+        "aspect": 4.57,
+        "role": "application",
+        "alt": "Q20 Quadcopter Platform — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2023/07/19/%E4%BA%A7%E5%93%81%E6%A6%82%E8%BF%B0-03_20230719151656A094.jpg",
+        "width": 3125,
+        "height": 2083,
+        "aspect": 1.5,
+        "role": "application",
+        "alt": "Q20 Quadcopter Platform — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2023/07/19/%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F_%E7%94%BB%E6%9D%BF%201_20230719141330A075.jpg",
+        "width": 1000,
+        "height": 500,
+        "aspect": 2,
+        "role": "application",
+        "alt": "Q20 Quadcopter Platform — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2023/07/19/%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F-02_20230719141416A076.jpg",
+        "width": 1000,
+        "height": 500,
+        "aspect": 2,
+        "role": "gallery",
+        "alt": "Q20 Quadcopter Platform — gallery",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2023/07/19/%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F-04_20230719142645A082.jpg",
+        "width": 1000,
+        "height": 500,
+        "aspect": 2,
+        "role": "gallery",
+        "alt": "Q20 Quadcopter Platform — gallery",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://zhonghangzhi-new.oss-accelerate.aliyuncs.com/2023/07/19/%E5%BA%94%E7%94%A8%E9%A2%86%E5%9F%9F-03_20230719142443A081.jpg",
+        "width": 1000,
+        "height": 500,
+        "aspect": 2,
+        "role": "gallery",
+        "alt": "Q20 Quadcopter Platform — gallery",
+        "action": "download_upload"
+      }
+    ],
+    "new_image_count": 0,
+    "specs": [
+      {
+        "action": "keep",
+        "label": "展开尺寸",
+        "from": "1595 x 884 x 527 mm",
+        "to": "1595 x 884 x 527 mm",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "收纳尺寸",
+        "from": "559 x 455x 335 mm（不含脚架）",
+        "to": "559 x 455x 335 mm (不含脚架)",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "最大payload",
+        "from": "10kg（定制版） 5.5kg(标准版）",
+        "to": "10kg (定制版) 5.5kg(标准版)",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "标准动力",
+        "from": "5000 m 高原动力：7000 m",
+        "to": "5000 m 高原动力：7000 m",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "起飞重量",
+        "from": "16.7 kg（空载） 22kg（最大）",
+        "to": "16.7 kg (no payload) 22kg (最大)",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "可搭载payload",
+        "from": "三光吊舱、高亮探照灯（120w）、喊话器、探照喊话一体机、六点抛投器、降落伞、发电机等，期待更多合作伙伴",
+        "to": "三光吊舱, 高亮探照灯 (120w), 喊话器, 探照喊话一体机, 六点抛投器, 降落伞, 发电机等, 期待更多合作伙伴",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "最大上升速度",
+        "from": "6 m/s",
+        "to": "6 m/s",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "最大下降速度",
+        "from": "5 m/s",
+        "to": "5 m/s",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "最大水平飞行速度",
+        "from": "27 m/s",
+        "to": "27 m/s",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "最大飞行海拔高度",
+        "from": "标准动力：5000 m 高原动力：7000 m",
+        "to": "标准动力：5000 m 高原动力：7000 m",
+        "group": "existing"
+      }
+    ],
+    "videos": [],
+    "embeds": [],
+    "payloads": [],
+    "documents": []
+  },
+  "risks": [
+    "6 spec values still contain Chinese after translation",
+    "no model-matching video found"
+  ],
+  "note": "REVIEW ONLY — nothing written to Supabase"
+}

@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-11-21T10:05:23.428Z",
+  "slug": "zmd200-heavy-lift-multirotor",
+  "product_id": "6dc33d65-0275-4b09-8260-3d7b1a0954c1",
+  "name": "ZMD200 Heavy-Lift Multirotor Drone",
+  "source_url": "https://www.droneyee.com/ProductDetail/12377061.html",
+  "extracted_with": "webridge",
+  "current": {
+    "images": 12,
+    "specs": 10
+  },
+  "proposed": {
+    "images": [],
+    "new_image_count": 0,
+    "specs": [
+      {
+        "action": "keep",
+        "label": "单轴拉力",
+        "from": "195 kg",
+        "to": "195 kg",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "抗风等级",
+        "from": "6级",
+        "to": "6级",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "最大载重",
+        "from": "200 kg",
+        "to": "200 kg",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "滞空时间",
+        "from": "≥24 h",
+        "to": "≥24 h",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "灯组亮度",
+        "from": "108000 LM",
+        "to": "108000 LM",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "部署时间",
+        "from": "3 min/单人",
+        "to": "3 min/单人",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "单机照明范围",
+        "from": "6000 m",
+        "to": "6000 m",
+        "group": "existing"
+      }
+    ],
+    "videos": [],
+    "embeds": [],
+    "payloads": [],
+    "documents": []
+  },
+  "risks": [
+    "2 spec values still contain Chinese after translation",
+    "only 0 usable images found",
+    "no model-matching video found"
+  ],
+  "note": "REVIEW ONLY — nothing written to Supabase"
+}

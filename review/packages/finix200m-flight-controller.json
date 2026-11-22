@@ -1,0 +1,105 @@
+{
+  "generated_at": "2026-11-22T04:59:49.545Z",
+  "slug": "finix200m-flight-controller",
+  "product_id": "0a4ed0c2-67db-4022-bdfb-9d597787de99",
+  "name": "Finix200M Flight Controller",
+  "source_url": "https://www.efy-tech.com/zh/products/finix200m.html",
+  "extracted_with": "webridge",
+  "current": {
+    "images": 6,
+    "specs": 7
+  },
+  "proposed": {
+    "images": [
+      {
+        "source_url": "https://www.efy-tech.com/media/images/efy-tech/finix200m.jpg",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "hero",
+        "alt": "Finix200M Flight Controller — product view",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.efy-tech.com/media/posters/flightcontrol.jpg",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "overview",
+        "alt": "Finix200M Flight Controller — overview",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://www.efy-tech.com/media/posters/product-finix200m.jpg",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "feature",
+        "alt": "Finix200M Flight Controller — feature",
+        "action": "download_upload"
+      }
+    ],
+    "new_image_count": 0,
+    "specs": [
+      {
+        "action": "keep",
+        "label": "vertical",
+        "from": "±30cm",
+        "to": "±30cm",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Operating temperature",
+        "from": "-10~70℃",
+        "to": "-10~70℃",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "Hover accuracy",
+        "from": "水平方向：±30cm",
+        "to": "horizontal：±30cm",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Wind resistance",
+        "from": "< 8m/s",
+        "to": "< 8m/s",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Voltage range",
+        "from": "3S-12S",
+        "to": "3S-12S",
+        "group": "existing"
+      },
+      {
+        "action": "translate_value",
+        "label": "RTK accuracy",
+        "from": "水平 10cm+1ppm",
+        "to": "水平 10cm+1ppm",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "悬停精度horizontal",
+        "from": "±30cm",
+        "to": "±30cm",
+        "group": "existing"
+      }
+    ],
+    "videos": [],
+    "embeds": [],
+    "payloads": [],
+    "documents": []
+  },
+  "risks": [
+    "1 spec values still contain Chinese after translation",
+    "only 3 usable images found",
+    "no model-matching video found"
+  ],
+  "note": "REVIEW ONLY — nothing written to Supabase"
+}

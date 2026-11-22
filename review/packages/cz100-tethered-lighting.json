@@ -1,0 +1,186 @@
+{
+  "generated_at": "2026-11-22T04:59:41.585Z",
+  "slug": "cz100-tethered-lighting",
+  "product_id": "15e9a3ea-7d5e-4699-9df4-0adc32fe1f4f",
+  "name": "CZ100 Tethered Lighting System",
+  "source_url": "https://czi.com.cn/product-detail/CZ100?id=166",
+  "extracted_with": "webridge",
+  "current": {
+    "images": 12,
+    "specs": 6
+  },
+  "proposed": {
+    "images": [
+      {
+        "source_url": "https://static.czi.com.cn/file/product/transparent/pic/277c8a75-86d5-4b21-8a3b-cd962f67963620260529.png",
+        "width": 5000,
+        "height": 3572,
+        "aspect": 1.4,
+        "role": "hero",
+        "alt": "CZ100 Tethered Lighting System — product view",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://static.czi.com.cn/file/product/transparent/pic/6b5e56c7-d6dc-49d4-b8f2-bcb2b7b3ead020260813.png",
+        "width": 3840,
+        "height": 2160,
+        "aspect": 1.78,
+        "role": "overview",
+        "alt": "CZ100 Tethered Lighting System — overview",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://static.czi.com.cn/file/common/product/source/CZ100/4e7c9451-7fd1-42c9-ac23-d8111a06fd4a20250609.png",
+        "width": 1050,
+        "height": 867,
+        "aspect": 1.21,
+        "role": "feature",
+        "alt": "CZ100 Tethered Lighting System — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://static.czi.com.cn/file/common/product/source/CZ100/7b9e4cdb-2400-4b97-a87d-95383c8b349d20250609.png",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "feature",
+        "alt": "CZ100 Tethered Lighting System — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://static.czi.com.cn/file/common/product/source/CZ100/0cac9f7f-733a-49f4-b13b-953a1aa2d76220250609.png",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "feature",
+        "alt": "CZ100 Tethered Lighting System — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://static.czi.com.cn/file/common/product/source/CZ100/b97847e9-1d5a-4a9c-a324-4a0b36f21d0120250609.png",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "feature",
+        "alt": "CZ100 Tethered Lighting System — feature",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://static.czi.com.cn/file/common/product/source/default/41967dc1-c974-45a0-be76-8090d8eb83ac20250611.png",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "application",
+        "alt": "CZ100 Tethered Lighting System — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://static.czi.com.cn/file/common/product/source/default/b7cb96fe-28e4-4c21-8330-46d10f4164e720250611.png",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "application",
+        "alt": "CZ100 Tethered Lighting System — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://static.czi.com.cn/file/common/product/source/default/21577abf-e7ee-4704-bc19-21f14605d19620250611.png",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "application",
+        "alt": "CZ100 Tethered Lighting System — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://static.czi.com.cn/file/common/product/source/default/7a8a2617-3e21-4743-85f5-a6566b542e6a20250616.jpg",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "application",
+        "alt": "CZ100 Tethered Lighting System — application",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://static.czi.com.cn/file/common/product/source/default/3496984e-6ac6-4795-a30c-a9f2eb6b479a20250616.jpg",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "gallery",
+        "alt": "CZ100 Tethered Lighting System — gallery",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://static.czi.com.cn/file/common/product/source/default/e1cde1d9-36d3-46fb-9ff0-e49ba3ec3eae20250616.jpg",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "gallery",
+        "alt": "CZ100 Tethered Lighting System — gallery",
+        "action": "download_upload"
+      },
+      {
+        "source_url": "https://static.czi.com.cn/file/common/81b96151-a0da-4e16-8218-50f73bb3724020260126.png",
+        "width": 0,
+        "height": 0,
+        "aspect": null,
+        "role": "gallery",
+        "alt": "CZ100 Tethered Lighting System — gallery",
+        "action": "download_upload"
+      }
+    ],
+    "new_image_count": 1,
+    "specs": [
+      {
+        "action": "keep",
+        "label": "Luminous flux",
+        "from": "112000 lm",
+        "to": "112000 lm",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Lighting power",
+        "from": "800 W",
+        "to": "800 W",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Working height",
+        "from": "30-50 m",
+        "to": "30-50 m",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Centre illuminance",
+        "from": "17 lx at 50 m",
+        "to": "17 lx at 50 m",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Ingress protection",
+        "from": "IP54",
+        "to": "IP 54",
+        "group": "existing"
+      },
+      {
+        "action": "keep",
+        "label": "Max illuminated area",
+        "from": "13000 m2",
+        "to": "13000 m 2",
+        "group": "existing"
+      }
+    ],
+    "videos": [],
+    "embeds": [],
+    "payloads": [],
+    "documents": []
+  },
+  "risks": [
+    "no model-matching video found"
+  ],
+  "note": "REVIEW ONLY — nothing written to Supabase"
+}
